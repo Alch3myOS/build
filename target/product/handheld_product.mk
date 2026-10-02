@@ -27,7 +27,7 @@ PRODUCT_PACKAGES += \
     SettingsIntelligence \
     frameworks-base-overlays
 
-ifeq ($(LINEAGE_BUILD),)
+ifeq ($(ALCH3MY_BUILD),)
 PRODUCT_PACKAGES += \
     Browser2 \
     Calendar \
